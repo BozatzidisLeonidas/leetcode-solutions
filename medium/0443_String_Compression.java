@@ -19,7 +19,6 @@ class Solution {
                 counter = 1; 
             }
         }
-
         return write; 
     }
 }
